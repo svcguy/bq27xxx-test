@@ -1,0 +1,3 @@
+[submodule "components/esp32-bq27220"]
+	path = components/esp32-bq27220
+	url = https://github.com/svcguy/esp32-bq27220
