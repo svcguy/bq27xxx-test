@@ -1,4 +1,10 @@
 dependencies:
+  bq27xxx:
+    component_hash: null
+    source:
+      path: ../components/esp32-bq27220
+      type: local
+    version: '*'
   espressif/led_strip:
     component_hash: a7d4d67931d61dd2b6f27e681e2e6df45fa70eb0de9b422178930330b2dc1846
     source:
@@ -10,6 +16,6 @@ dependencies:
     source:
       type: idf
     version: 4.4.0
-manifest_hash: e598f543dd19bb94c15590aabda4f031984e92b9bbfd134b97b7a737e257a279
+manifest_hash: 3be66c71517c802bb0f1c9fae71c008bb39fcd4a8618d96b0b7ea206e959e8ca
 target: esp32s2
 version: 1.0.0

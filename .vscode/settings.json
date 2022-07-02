@@ -9,5 +9,11 @@
     ],
     "idf.port": "/dev/cu.Bluetooth-Incoming-Port",
     "idf.pythonBinPath": "/Users/andy/.espressif/python_env/idf4.4_py3.8_env/bin/python",
-    "idf.toolsPath": "/Users/andy/.espressif"
+    "idf.toolsPath": "/Users/andy/.espressif",
+    "files.associations": {
+        "freertos.h": "c",
+        "cpu_defines.h": "c",
+        "endian.h": "c",
+        "ar.h": "c"
+    }
 }
